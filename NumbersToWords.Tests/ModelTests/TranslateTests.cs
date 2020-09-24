@@ -10,9 +10,25 @@ namespace NumbersToWords.Tests
     [TestMethod]
     public void TranslateOnes_TakeNumberAndTurnIntoWrittenNumber_WrittenNumber()
     {
-      // testing code will go here
       Translate testOnes = new Translate();
-      Assert.AreEqual("one", testOnes.Ones(1));
+      string number = "1";
+      int input = int.Parse(number);
+      Assert.AreEqual("one", testOnes.OneThruNineteen(input));
+    }
+
+    [TestMethod]
+    public void TranslateTens_TakeNumberAndTurnIntoWrittenNumber_WrittenNumber()
+    {
+      Translate testTens = new Translate();
+      string number = "20";
+      Assert.AreEqual("twenty", testTens.TensAfterNineteen(number));
+    }
+    [TestMethod]
+    public void TranslateHundreds_TakeNumberAndTurnIntoWrittenNumber_WrittenNumber()
+    {
+      Translate testHundreds = new Translate();
+      string number = "300";
+      Assert.AreEqual("three hundred", testHundreds.OneHundreds(number));
     }
   }
 }
