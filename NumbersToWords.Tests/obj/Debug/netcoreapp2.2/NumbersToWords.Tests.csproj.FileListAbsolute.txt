@@ -1,0 +1,17 @@
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\numberstowords.tests\obj\Debug\netcoreapp2.2\NumbersToWords.Tests.csprojAssemblyReference.cache
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\numberstowords.tests\obj\Debug\netcoreapp2.2\NumbersToWords.Tests.csproj.CoreCompileInputs.cache
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\numberstowords.tests\obj\Debug\netcoreapp2.2\NumbersToWords.Tests.AssemblyInfoInputs.cache
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\numberstowords.tests\obj\Debug\netcoreapp2.2\NumbersToWords.Tests.AssemblyInfo.cs
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\numberstowords.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\numberstowords.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\numberstowords.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\numberstowords.tests\bin\Debug\netcoreapp2.2\NumbersToWords.Tests.deps.json
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\numberstowords.tests\bin\Debug\netcoreapp2.2\NumbersToWords.Tests.runtimeconfig.json
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\numberstowords.tests\bin\Debug\netcoreapp2.2\NumbersToWords.Tests.runtimeconfig.dev.json
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\numberstowords.tests\bin\Debug\netcoreapp2.2\NumbersToWords.Tests.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\numberstowords.tests\bin\Debug\netcoreapp2.2\NumbersToWords.Tests.pdb
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\numberstowords.tests\bin\Debug\netcoreapp2.2\NumbersToWords.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\numberstowords.tests\bin\Debug\netcoreapp2.2\NumbersToWords.pdb
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\numberstowords.tests\obj\Debug\netcoreapp2.2\NumbersToWords.Tests.csproj.CopyComplete
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\numberstowords.tests\obj\Debug\netcoreapp2.2\NumbersToWords.Tests.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\numberstowords.tests\obj\Debug\netcoreapp2.2\NumbersToWords.Tests.pdb

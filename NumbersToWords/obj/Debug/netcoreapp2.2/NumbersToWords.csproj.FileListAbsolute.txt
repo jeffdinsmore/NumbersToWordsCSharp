@@ -1,0 +1,9 @@
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\NumbersToWords\obj\Debug\netcoreapp2.2\NumbersToWords.csprojAssemblyReference.cache
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\NumbersToWords\obj\Debug\netcoreapp2.2\NumbersToWords.csproj.CoreCompileInputs.cache
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\NumbersToWords\obj\Debug\netcoreapp2.2\NumbersToWords.AssemblyInfoInputs.cache
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\NumbersToWords\obj\Debug\netcoreapp2.2\NumbersToWords.AssemblyInfo.cs
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\NumbersToWords\bin\Debug\netcoreapp2.2\NumbersToWords.deps.json
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\NumbersToWords\bin\Debug\netcoreapp2.2\NumbersToWords.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\NumbersToWords\bin\Debug\netcoreapp2.2\NumbersToWords.pdb
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\NumbersToWords\obj\Debug\netcoreapp2.2\NumbersToWords.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\numberstowords.solution\NumbersToWords\obj\Debug\netcoreapp2.2\NumbersToWords.pdb

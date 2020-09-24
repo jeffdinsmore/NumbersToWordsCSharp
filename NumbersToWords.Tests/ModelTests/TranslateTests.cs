@@ -1,4 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System.Collections.Generic;
 using NumbersToWords.Models;
 
 namespace NumbersToWords.Tests
@@ -7,11 +8,11 @@ namespace NumbersToWords.Tests
   public class TranslateTests
   {
     [TestMethod]
-    public void NameOfMethodWeAreTesting_DescriptionOfBehavior_ExpectedReturnValue()
+    public void TranslateOnes_TakeNumberAndTurnIntoWrittenNumber_WrittenNumber()
     {
       // testing code will go here
-      Name testName = new Name();
-      Assert.AreEqual(true, testName.NameofMethodWeAreTesting());
+      Translate testOnes = new Translate();
+      Assert.AreEqual("one", testOnes.Ones(1));
     }
   }
 }
